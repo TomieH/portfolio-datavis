@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="1024px" height="768px" viewBox="0 0 1024 768">
+<defs>
+<style type="text/css"> @import url(https://fonts.googleapis.com/css?family=Roboto:normal:latin-ext); </style>
+</defs>
+<clipPath id="cp1">
+<path d="M 0,0 L 1024,0 L1024,768 L 0,768 z M 0,0 L 1280,0 L 1280,960 L 0,960 z" fill-rule="evenodd">
+</path>
+</clipPath>
+<g clip-path="url(#cp1)">
+</g>
+<rect x="0" y="0" width="1280" height="960" opacity="1" fill="#fff" stroke="none">
+</rect>
+<text x="-196.98684692382812" y="6.459169920000001" style="font: normal 64.59169920000001px Roboto" text-anchor="start" dy="25.53031588932807" opacity="1" fill="#41b6e6" stroke="none" transform="translate(510, 382)">digitalprinting</text>
+<text x="-129.52687072753906" y="6.459169920000001" style="font: normal 64.59169920000001px Roboto" text-anchor="start" dy="25.53031588932807" opacity="1" fill="#005f61" stroke="none" transform="translate(496, 330)">PrePress</text>
+<text x="-76.62175750732422" y="6.459169920000001" style="font: normal 64.59169920000001px Roboto" text-anchor="start" dy="25.53031588932807" opacity="1" fill="#abad23" stroke="none" transform="translate(522, 434)">Color</text>
+<text x="-211.36434936523438" y="5.3826415999999995" style="font: normal 53.826416px Roboto" text-anchor="start" dy="21.27526324110672" opacity="1" fill="#651d32" stroke="none" transform="translate(694, 466) rotate(-68.54009035883642)">color managment</text>
+<text x="-124.28790283203125" y="5.3826415999999995" style="font: normal 53.826416px Roboto" text-anchor="start" dy="21.27526324110672" opacity="1" fill="#41b6e6" stroke="none" transform="translate(514, 480) rotate(6.9913075126975786)">leadership</text>
+<text x="-86.87689208984375" y="4.306113279999998" style="font: normal 43.0611328px Roboto" text-anchor="start" dy="17.020210592885377" opacity="1" fill="#651d32" stroke="none" transform="translate(490, 286)">reporting</text>
+<text x="-77.38392639160156" y="4.306113279999998" style="font: normal 43.0611328px Roboto" text-anchor="start" dy="17.020210592885377" opacity="1" fill="#41b6e6" stroke="none" transform="translate(490, 514)">projects</text>
+<text x="-87.33946228027344" y="4.306113279999998" style="font: normal 43.0611328px Roboto" text-anchor="start" dy="17.020210592885377" opacity="1" fill="#005f61" stroke="none" transform="translate(594, 268) rotate(44.79661627585737)">workflow</text>
+<text x="-62.278053283691406" y="3.2295849600000004" style="font: normal 32.295849600000004px Roboto" text-anchor="start" dy="12.765157944664034" opacity="1" fill="#41b6e6" stroke="none" transform="translate(378, 482) rotate(62.87483907091696)">Learning</text>
+<text x="-54.50511932373047" y="3.2295849600000004" style="font: normal 32.295849600000004px Roboto" text-anchor="start" dy="12.765157944664034" opacity="1" fill="#abad23" stroke="none" transform="translate(492, 254)">printing</text>
+<text x="-117.00389862060547" y="3.2295849600000004" style="font: normal 32.295849600000004px Roboto" text-anchor="start" dy="12.765157944664034" opacity="1" fill="#abad23" stroke="none" transform="translate(336, 476) rotate(69.66793058545642)">trouble shooting</text>
+<text x="-31.943130493164062" y="3.2295849600000004" style="font: normal 32.295849600000004px Roboto" text-anchor="start" dy="12.765157944664034" opacity="1" fill="#005f61" stroke="none" transform="translate(626, 440) rotate(-71.22316180249821)">data</text>
+<text x="-75.84903717041016" y="2.153056639999999" style="font: normal 21.5305664px Roboto" text-anchor="start" dy="8.510105296442688" opacity="1" fill="#651d32" stroke="none" transform="translate(670, 288) rotate(80.46666047138261)">data foundation</text>
+<text x="-64.99469757080078" y="2.153056639999999" style="font: normal 21.5305664px Roboto" text-anchor="start" dy="8.510105296442688" opacity="1" fill="#651d32" stroke="none" transform="translate(456, 230)">Lean 6 Sigma</text>
+<text x="-32.43690490722656" y="2.153056639999999" style="font: normal 21.5305664px Roboto" text-anchor="start" dy="8.510105296442688" opacity="1" fill="#651d32" stroke="none" transform="translate(412, 422) rotate(-18.78260810188174)">coding</text>
+<text x="-74.4140625" y="2.153056639999999" style="font: normal 21.5305664px Roboto" text-anchor="start" dy="8.510105296442688" opacity="1" fill="#abad23" stroke="none" transform="translate(528, 546)">standardization</text>
+<text x="-55.633148193359375" y="2.153056639999999" style="font: normal 21.5305664px Roboto" text-anchor="start" dy="8.510105296442688" opacity="1" fill="#abad23" stroke="none" transform="translate(374, 262)">story telling</text>
+<text x="-46.09288787841797" y="2.153056639999999" style="font: normal 21.5305664px Roboto" text-anchor="start" dy="8.510105296442688" opacity="1" fill="#41b6e6" stroke="none" transform="translate(356, 294)">Greenbelt</text>
+<text x="-35.948143005371094" y="2.153056639999999" style="font: normal 21.5305664px Roboto" text-anchor="start" dy="8.510105296442688" opacity="1" fill="#651d32" stroke="none" transform="translate(332, 340) rotate(-32.47509663984426)">training</text>
+<text x="-22.807174682617188" y="1.0765283199999995" style="font: normal 10.7652832px Roboto" text-anchor="start" dy="4.255052648221344" opacity="1" fill="#005f61" stroke="none" transform="translate(510, 362)">Illustrator</text>
+<text x="-26.022552490234375" y="1.0765283199999995" style="font: normal 10.7652832px Roboto" text-anchor="start" dy="4.255052648221344" opacity="1" fill="#509e2f" stroke="none" transform="translate(594, 528) rotate(21.75982410379123)">Photoshop</text>
+<text x="-19.967445373535156" y="1.0765283199999995" style="font: normal 10.7652832px Roboto" text-anchor="start" dy="4.255052648221344" opacity="1" fill="#509e2f" stroke="none" transform="translate(556, 414)">R Studio</text>
+<text x="-20.38249969482422" y="1.0765283199999995" style="font: normal 10.7652832px Roboto" text-anchor="start" dy="4.255052648221344" opacity="1" fill="#509e2f" stroke="none" transform="translate(452, 362)">Indesign</text>
+<text x="-19.954315185546875" y="1.0765283199999995" style="font: normal 10.7652832px Roboto" text-anchor="start" dy="4.255052648221344" opacity="1" fill="#005f61" stroke="none" transform="translate(524, 310)">PowerBI</text>
+<text x="-18.906166076660156" y="1.0765283199999995" style="font: normal 10.7652832px Roboto" text-anchor="start" dy="4.255052648221344" opacity="1" fill="#005f61" stroke="none" transform="translate(582, 362)">Tableau</text>
+<text x="-20.40088653564453" y="1.0765283199999995" style="font: normal 10.7652832px Roboto" text-anchor="start" dy="4.255052648221344" opacity="1" fill="#005f61" stroke="none" transform="translate(380, 446) rotate(62.918851853717044)">VS Code</text>
+<text x="-18.86412811279297" y="1.0765283199999995" style="font: normal 10.7652832px Roboto" text-anchor="start" dy="4.255052648221344" opacity="1" fill="#651d32" stroke="none" transform="translate(434, 444) rotate(46.38986816198322)">Acrobat</text>
+<text x="-17.540145874023438" y="1.0765283199999995" style="font: normal 10.7652832px Roboto" text-anchor="start" dy="4.255052648221344" opacity="1" fill="#41b6e6" stroke="none" transform="translate(538, 462)">Access</text>
+<text x="-16.736297607421875" y="1.0765283199999995" style="font: normal 10.7652832px Roboto" text-anchor="start" dy="4.255052648221344" opacity="1" fill="#41b6e6" stroke="none" transform="translate(596, 414)">Python</text>
+<text x="-12.643516540527344" y="1.0765283199999995" style="font: normal 10.7652832px Roboto" text-anchor="start" dy="4.255052648221344" opacity="1" fill="#651d32" stroke="none" transform="translate(472, 434)">Excel</text>
+<text x="-12.564697265625" y="1.0765283199999995" style="font: normal 10.7652832px Roboto" text-anchor="start" dy="4.255052648221344" opacity="1" fill="#651d32" stroke="none" transform="translate(592, 310)">Word</text>
+<text x="-11.348419189453125" y="1.0765283199999995" style="font: normal 10.7652832px Roboto" text-anchor="start" dy="4.255052648221344" opacity="1" fill="#abad23" stroke="none" transform="translate(516, 414)">Java</text>
+<text x="-10.741600036621094" y="1.0765283199999995" style="font: normal 10.7652832px Roboto" text-anchor="start" dy="4.255052648221344" opacity="1" fill="#509e2f" stroke="none" transform="translate(602, 432) rotate(-68.33202068328131)">html</text>
+<text x="-9.785385131835938" y="1.0765283199999995" style="font: normal 10.7652832px Roboto" text-anchor="start" dy="4.255052648221344" opacity="1" fill="#509e2f" stroke="none" transform="translate(494, 350)">SQL</text>
+<text x="-9.895721435546875" y="1.0765283199999995" style="font: normal 10.7652832px Roboto" text-anchor="start" dy="4.255052648221344" opacity="1" fill="#41b6e6" stroke="none" transform="translate(426, 310)">PDF</text>
+<text x="-10.752105712890625" y="1.0765283199999995" style="font: normal 10.7652832px Roboto" text-anchor="start" dy="4.255052648221344" opacity="1" fill="#abad23" stroke="none" transform="translate(416, 442) rotate(58.526008806292666)">gmg</text>
+</svg>
